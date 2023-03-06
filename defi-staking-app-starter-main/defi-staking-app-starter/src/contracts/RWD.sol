@@ -1,8 +1,8 @@
 pragma solidity >=0.4.21 <0.6.0;
 
-contract Tether {
-  string public name = 'Mock Tether Token';
-  string public symbol = 'USDT';
+contract RWD {
+  string public name = 'Reward Token';
+  string public symbol = 'RWD';
   uint256 public totalSupply = 1000000000000000000000000;  // 토큰 100만개
   uint8 public decimals = 18;
 
